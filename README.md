@@ -81,7 +81,7 @@ The first four tasks set up the project, because the eligibility check needs an 
 
 | Task | Description                                                                                   | Est (h) | Iteration | Owner      |
 | ---- | --------------------------------------------------------------------------------------------- | ------- | --------- | ---------- |
-| 1.1  | Create private GitHub repo `willa-flask`; add instructor as collaborator                      | 0.25    | 1         | Bobby Cruz |
+| 1.1  | Create GitHub repo `ist-303-audit`; add instructor as collaborator                      | 0.25    | 1         | Bobby Cruz |
 | 1.2  | Python 3.12 virtual environment, `requirements.txt` (flask, pytest, pytest-cov), `.gitignore` | 0.5     | 1         | Bobby Cruz |
 | 1.3  | App factory `create_app()` and a home page                                                    | 1       | 1         | Bobby Cruz |
 | 1.4  | pytest setup and first test (home page returns 200)                                           | 0.5     | 1         | Bobby Cruz |
